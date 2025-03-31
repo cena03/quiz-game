@@ -1,1 +1,2 @@
 # quiz-game
+author = anwesha
